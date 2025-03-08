@@ -1,6 +1,6 @@
 # Secure Integration of ZStandard Library using Isolation via IPC
 
-This directory provides a minimal example implementation of a secure integration of the **ZStandard** library using the **Isolation via IPC** technique, extended with Linux's ```seccomp``` feature. This imlementation supports a [Cardano Improvement Proposal for Block Data Compression](https://github.com/sierkov/data-compression-CIP), demonstrating the simplicity and advantages of this approach.
+This directory provides a minimal example implementation of a secure integration of the **ZStandard** library using the **Isolation via IPC** technique, extended with Linux's ```seccomp``` feature. This imlementation supports a [Cardano Improvement Proposal for Block Data Compression](https://github.com/sierkov/data-compression-CIP/tree/master/CIP-0150), demonstrating the simplicity and advantages of this approach.
 
 Currently, it has only been tested on **Ubuntu Linux 24.04 LTS**.
 
